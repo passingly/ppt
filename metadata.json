@@ -1,0 +1,5 @@
+{
+  "name": "AI Presentation Maker",
+  "description": "An AI-powered web application to effortlessly generate and edit presentations on any topic. Simply provide a subject, and Gemini will create a structured slide deck for you to customize.",
+  "requestFramePermissions": []
+}
